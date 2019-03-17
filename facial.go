@@ -10,7 +10,7 @@ import (
 
 	"pault.ag/go/cbeff/jpeg2000"
 	"pault.ag/go/piv/biometrics"
-	"pault.ag/go/piv/cmd/pivtk/internal"
+	"pault.ag/go/pivtk/internal"
 )
 
 func Facial(c *cli.Context) error {
